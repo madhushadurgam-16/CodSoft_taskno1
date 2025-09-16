@@ -191,7 +191,7 @@
           background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa1W9-YAuE0dk_PTTOsZHv1DBomlYoQkPWxg&s');
         "
       ></p>
-      <h1>Hi, am  Durgam Madhusha</h1>
+      <h1>Hi, I am  Durgam Madhusha</h1>
       <p class="typing"></p>
     </section>
 
@@ -256,32 +256,9 @@
         <div class="skill">⚡ Handling Pressure</div>
       </div>
     </section>
-
-    <section id="achievements" class="fade-in">
-      <h2>Achievements & Certifications</h2>
-      <ul
-        style="
-          line-height: 1.8;
-          font-size: 1.05rem;
-          list-style: none;
-          padding: 0;
-        "
-      >
-        <li>✅ Problem Solving using C – <b>CodeTantra</b></li>
-        <li>✅ Complete HTML Course – <b>Great Learning Academy</b></li>
-        <li>✅ SQL Basics – <b>Newton School</b></li>
-        
-        <li>
-          🏆 Smart Coder Certification – <b>Smart Interviews</b> (DSA Training)
-        </li>
-        <li>🎨 Design-a-thon Participant – <b>VNR College</b></li>
-      
-      </ul>
-    </section>
-
     <section id="education" class="fade-in">
       <h2>Education</h2>
-      <p><b>Pre-University:</b> Resonance Junior College, Habsiguda — 84%</p>
+      <p><b>Pre-University:</b> Kasturba Gandhi Junior College, Marredpally — 82%</p>
       <p>
         <b>Undergraduate:</b> B.Tech in Computer Science (AI & ML), Sreenidhi
         Institute of Science and Technology
@@ -290,8 +267,7 @@
       <p>
         <b>Special Training:</b> Currently pursuing
         <b>Smart Interviews Student Training Program</b>, focused on mastering
-        problem-solving in <b>DSA & Advanced DSA</b>. Achieved
-        <b>Bronze Coder</b> level.
+        problem-solving in <b>DSA & Advanced DSA</b>. 
       </p>
     </section>
 
@@ -303,8 +279,8 @@
         <a href="https://linkedin.com/in/Madhusha Durgam" target="_blank"
           >LinkedIn</a
         >
-        <a href="https://github.com/rohan-reddy05" target="_blank">GitHub</a>
-        <a href="tel:+916304192567">Phone</a>
+        <a href="https://github.com/madhushadurgam-16" target="_blank">GitHub</a>
+        <a href="tel:+918374752078">Phone</a>
       </div>
     </section>
 
